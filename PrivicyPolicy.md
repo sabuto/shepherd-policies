@@ -4,13 +4,13 @@ Last Updated: August 2, 2025
 Thank you for using our application (the “JftShepherd”). This Privacy Policy explains how we handle information in the App.
 
 ## 1. Information We Collect1.
-  ### 1.1 Credentials for Server Login
+  ### 1 . 1 Credentials for Server Login
   - The App requires a username and password to authenticate with your organization’s server. These credentials are used solely to log in and retrieve content (worksheets, job details, quotes, and purchase orders).
   - We do not collect or transmit any personal information beyond the credentials necessary for authentication.
-  ### 1.2 Local Storage
+  ### 1 . 2 Local Storage
   - Local Storage: The App stores only the data downloaded from the server after a successful login (worksheets, job details, quotes, and purchase orders) in its private storage for offline access.
   - No user credentials, personal data, or other identifying information is stored on the device.
-  ### 1.3 Server Data
+  ### 1 . 3 Server Data
   - All content (worksheets, job details, quotes, and purchase orders) resides on your server. The App acts as a client and does not retain any additional data beyond what is explicitly downloaded for offline viewing.
 ## 2. How We Use Information
   - Authentication: We use your username and password only to authenticate with your server.
